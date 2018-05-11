@@ -92,10 +92,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<header-file src="src/ios/FirebasePlugin.h" />
 		<source-file src="src/ios/FirebasePlugin.m" />
 
-		<framework spec="~> 4.12.0" src="Firebase/Core" type="podspec" />
-		<framework spec="~> 4.12.0" src="Firebase/Messaging" type="podspec" />
-		<framework spec="~> 4.12.0" src="Firebase/Auth" type="podspec" />
-		<framework spec="~> 4.12.0" src="Firebase/Crash" type="podspec" />
+		<framework spec="~> 4" src="Firebase/Core" type="podspec" />
+		<framework spec="~> 4" src="Firebase/Messaging" type="podspec" />
+		<framework spec="~> 4" src="Firebase/Auth" type="podspec" />
+		<framework spec="~> 4" src="Firebase/Crash" type="podspec" />
 
 
 	</platform>
