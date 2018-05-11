@@ -96,6 +96,8 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework spec="~> 4" src="Firebase/Messaging" type="podspec" />
 		<framework spec="~> 4" src="Firebase/Auth" type="podspec" />
 		<framework spec="~> 4" src="Firebase/Crash" type="podspec" />
+		<framework spec="~> 4" src="Firebase/RemoteConfig" type="podspec" />
+		<framework spec="~> 4" src="Firebase/Performance" type="podspec" />
 
 
 	</platform>
